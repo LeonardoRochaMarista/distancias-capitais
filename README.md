@@ -1,4 +1,4 @@
 # Distância entre capitais brasileiras
-Tabela de distância terrestre entre capitais brasileiras que mostra a referida distância em km. 
+Aplicação utilizando recursos de tabela para construção de página com distância entre capitais brasileiras.
 
-É preciso ter atenção pois em alguns casos, essa distância é aérea.
+Esta tarefa foi utilizada para o ensino de utilização do git/github para a turma do 1º Ano B.
